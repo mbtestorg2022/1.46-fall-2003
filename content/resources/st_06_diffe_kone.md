@@ -3,6 +3,7 @@ content_type: resource
 description: ''
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/1-46-strategic-management-in-the-design-and-construction-value-chain-fall-2003/9f4bc13f6c2dc5eae325aff63045d6d8_st_06_diffe_kone.pdf
 file_type: application/pdf
+parent_uid: 30afd66d-159e-6b7d-54ff-106cb58715cc
 resourcetype: Document
 title: st_06_diffe_kone.pdf
 uid: 9f4bc13f-6c2d-c5ea-e325-aff63045d6d8

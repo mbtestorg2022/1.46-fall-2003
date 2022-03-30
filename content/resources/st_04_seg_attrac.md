@@ -3,6 +3,7 @@ content_type: resource
 description: ''
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/1-46-strategic-management-in-the-design-and-construction-value-chain-fall-2003/a4af7a4c26505c9d8f645d5e42afc3a2_st_04_seg_attrac.pdf
 file_type: application/pdf
+parent_uid: 30afd66d-159e-6b7d-54ff-106cb58715cc
 resourcetype: Document
 title: st_04_seg_attrac.pdf
 uid: a4af7a4c-2650-5c9d-8f64-5d5e42afc3a2
