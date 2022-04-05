@@ -3,6 +3,11 @@ content_type: resource
 description: Concepts and Calendar for Course
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/1-46-strategic-management-in-the-design-and-construction-value-chain-fall-2003/984ee3b3e5ad2ebe6587b1852a68c443_st_01_intro.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 parent_uid: 30afd66d-159e-6b7d-54ff-106cb58715cc
 resourcetype: Document
 title: st_01_intro.pdf

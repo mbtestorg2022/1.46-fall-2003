@@ -3,6 +3,11 @@ content_type: resource
 description: States The Problem, The Approach, and The Strategy
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/1-46-strategic-management-in-the-design-and-construction-value-chain-fall-2003/9b9ca6ebf06c2bc91a90c81a1ec5b238_y_can_market_seg.xls
 file_type: application/msword
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 parent_uid: 30afd66d-159e-6b7d-54ff-106cb58715cc
 resourcetype: Other
 title: y_can_market_seg.xls

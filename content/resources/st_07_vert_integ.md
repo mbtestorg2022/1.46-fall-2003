@@ -3,6 +3,11 @@ content_type: resource
 description: ''
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/1-46-strategic-management-in-the-design-and-construction-value-chain-fall-2003/9cb10bcb720bbfdb5747184f0a6cff09_st_07_vert_integ.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 parent_uid: 30afd66d-159e-6b7d-54ff-106cb58715cc
 resourcetype: Document
 title: st_07_vert_integ.pdf
